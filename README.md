@@ -1,2 +1,3 @@
 # HackVerse
-AI agent that monitors environment pollution and alerts authorities.
+
+Develop an Al agent that monitors environmental pollution and alerts authorities.
